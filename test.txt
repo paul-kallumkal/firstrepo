@@ -1,3 +1,7 @@
 Finally learning how to use Git
 Yay :)
+<<<<<<< HEAD
 Added some more text to the file
+=======
+Added some more text
+>>>>>>> 9419568e281042fe81d6aa8c9db4e4500fd0b3f2
