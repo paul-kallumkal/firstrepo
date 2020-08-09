@@ -1,0 +1,157 @@
+@media only screen and (max-width: 1200px)
+{
+    .herotextbox{
+        position: absolute;
+        width: 100%;
+        padding: 0 2%;
+    }
+    .row{
+        padding: 0px 2%;
+    }
+}
+
+
+@media only screen and (max-width: 1023px)
+{
+    body{
+        font-size: 18px;
+    }
+    section{
+        padding: 60px 0;
+    }
+    .sticky .main-nav li a:link ,
+    .sticky .main-nav li a:visited{
+    padding: 18px 0px;
+    }
+    .long-copy{
+        width: 80%;
+        margin-left: 10%;
+    }
+    .steps-box{
+        margin-top: 10px;
+    }
+    .steps-box:last-child{
+        margin-top: 10px;
+    }
+    .app-screen{
+        width: 40%;
+    }
+    .work-step{
+        margin-bottom: 40px;
+    }
+    .work-step:last-of-type{
+        margin-bottom: 60px;
+    }
+    .city-feature {
+        font-size: 90%;
+    }
+    .plan-price{
+        font-size: 250%;
+    }
+    .plan-box ul{
+        font-size: 80%;
+    }
+    .contact-form{
+        width: 80%;
+    }
+}
+
+
+@media only screen and (max-width: 767px)
+{
+    body{
+        font-size: 16px;
+    }
+    section{
+        padding: 30px 0;
+    }
+    .row,.herotextbox{
+        padding: 0px 4%;
+    }
+    .col{
+        width: 100%;
+        margin: 0 0 4% 0; 
+    }
+    .main-nav{
+        float:left;
+        margin-top: 35px;
+        display: none;
+    }
+    .main-nav li{
+        display: block;
+    }
+    .main-nav li a:link,
+    .main-nav li a:visited{
+        display: block;
+        border: 0;
+        font-size: 120%;
+    }
+    .sticky .main-nav{
+        margin-top: 10px;
+    }
+    .sticky .main-nav li a:link,
+    .sticky .main-nav li a:visited{
+        border:0;
+        padding:10px 0px;
+    }
+    h1{
+        font-size: 180%;
+    }
+    h2{font-size: 150%;}
+
+    .section-features h3{
+        text-align: center;
+    }
+    .long-copy{
+        width: 100%;
+        margin-left: 0;
+    }
+    .work-step{
+        margin-bottom: 20px;
+    }
+    .work-step div{
+        height: 40px;
+        width: 40px;
+        padding: 4px;
+        margin-right: 15px;
+    }
+    .work-step p{
+        height: 40px;
+    }
+    .steps-box:first-child{
+        text-align: center;
+    }
+    .app-screen{
+        width: 20%;
+    }
+    label{
+        text-decoration: underline;
+    }
+    .footcol{
+        width: 100%;
+    }
+    .footer-nav{
+        width: 100%;
+    }
+    .link-box{
+        margin-top: 20px;
+        float: left;
+    }
+    footer{
+        padding: 40px 20px;
+    }
+    ion-icon[name="reorder-three-outline"]{
+        display: inline-block;
+    }
+    ion-icon[name="close-outline"]{
+        display: inline-block;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 480px)
+{
+    
+}
