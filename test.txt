@@ -2,3 +2,4 @@ Finally learning how to use Git
 Yay :)
 Added some more text
 Test 2
+testing 3, why can't I learn this right?
